@@ -6,6 +6,10 @@
         {
             "name": "Win32",
             "includePath": [
+                "c:/Users/Romain/Dropbox/PRJ/PlatformIO/Projects/KT_LCD8_override/lib/AltSoftSerial",
+                "c:/Users/Romain/Dropbox/PRJ/PlatformIO/Projects/KT_LCD8_override/lib/KtCtrl",
+                "c:/Users/Romain/Dropbox/PRJ/PlatformIO/Projects/KT_LCD8_override/lib/KtLcd8",
+                "c:/Users/Romain/Dropbox/PRJ/PlatformIO/Projects/KT_LCD8_override/.pio/libdeps/sparkfun_promicro16/_tmp_installing-8geezi-package",
                 "C:/Users/Romain/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
                 "C:/Users/Romain/.platformio/packages/framework-arduino-avr/libraries/HID/src",
                 "C:/Users/Romain/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
@@ -21,6 +25,10 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
+                    "c:/Users/Romain/Dropbox/PRJ/PlatformIO/Projects/KT_LCD8_override/lib/AltSoftSerial",
+                    "c:/Users/Romain/Dropbox/PRJ/PlatformIO/Projects/KT_LCD8_override/lib/KtCtrl",
+                    "c:/Users/Romain/Dropbox/PRJ/PlatformIO/Projects/KT_LCD8_override/lib/KtLcd8",
+                    "c:/Users/Romain/Dropbox/PRJ/PlatformIO/Projects/KT_LCD8_override/.pio/libdeps/sparkfun_promicro16/_tmp_installing-8geezi-package",
                     "C:/Users/Romain/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
                     "C:/Users/Romain/.platformio/packages/framework-arduino-avr/libraries/HID/src",
                     "C:/Users/Romain/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
